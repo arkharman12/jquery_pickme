@@ -1,1 +1,2 @@
-# js_pickme
+# JS Pickme
+Explore methods of jQuery selection
